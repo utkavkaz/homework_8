@@ -1,0 +1,11 @@
+{
+    "orders": [
+        {
+            "item": "scaner",
+            "quantity": "10",
+            "price": "10000.00",
+            "buyer": "Petrov P.P.",
+            "date": "10.10.2020"
+        }
+    ]
+}
